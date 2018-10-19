@@ -1,0 +1,401 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<map name="web前端知识架构" document_type="Blumind" editor_version="1.3.21.1">
+  <!--Create by Blumind, you can download it free from http://www.blumind.org/download-->
+  <info>
+    <author>Leon</author>
+    <company>
+    </company>
+    <version>1.0</version>
+  </info>
+  <layout>TREE_RIGHT</layout>
+  <attributes>
+    <item name="editor_show_sidebar">True</item>
+  </attributes>
+  <style>
+    <back_color>Indigo</back_color>
+    <fore_color>Black</fore_color>
+    <line_color>LightSlateGray</line_color>
+    <border_color>SlateGray</border_color>
+    <node_back_color>LightGray</node_back_color>
+    <node_fore_color>Black</node_fore_color>
+    <select_color>RoyalBlue</select_color>
+    <hover_color>MediumSlateBlue</hover_color>
+    <link_line_color>Green</link_line_color>
+  </style>
+  <nodes>
+    <node text="前端知识精简">
+      <style>
+        <back_color>DarkSlateBlue</back_color>
+        <fore_color>Aquamarine</fore_color>
+        <border_color>LimeGreen</border_color>
+        <padding>10</padding>
+        <font font_family="微软雅黑" size="10.5" style="Bold" />
+      </style>
+      <nodes>
+        <node text="HTML">
+          <style>
+            <back_color>DarkSlateBlue</back_color>
+            <fore_color>White</fore_color>
+            <line_color>#80FFFF</line_color>
+            <border_color>LimeGreen</border_color>
+            <padding>12</padding>
+            <font font_family="微软雅黑" size="9" style="Bold" />
+          </style>
+          <nodes>
+            <node text="Web语义化 和 SEO">
+              <style>
+                <back_color>DarkSlateBlue</back_color>
+                <fore_color>White</fore_color>
+                <line_color>#80FFFF</line_color>
+                <border_color>LimeGreen</border_color>
+                <padding>12</padding>
+                <font font_family="微软雅黑" size="9" style="Bold" />
+              </style>
+            </node>
+            <node text="页面渲染机制">
+              <style>
+                <back_color>DarkSlateBlue</back_color>
+                <fore_color>White</fore_color>
+                <line_color>#80FFFF</line_color>
+                <border_color>LimeGreen</border_color>
+                <padding>12</padding>
+                <font font_family="微软雅黑" size="9" style="Bold" />
+              </style>
+            </node>
+            <node text="重绘和回流">
+              <style>
+                <back_color>DarkSlateBlue</back_color>
+                <fore_color>White</fore_color>
+                <line_color>#80FFFF</line_color>
+                <border_color>LimeGreen</border_color>
+                <padding>12</padding>
+                <font font_family="微软雅黑" size="9" style="Bold" />
+              </style>
+            </node>
+            <node text="本地存储">
+              <style>
+                <back_color>DarkSlateBlue</back_color>
+                <fore_color>White</fore_color>
+                <line_color>#80FFFF</line_color>
+                <border_color>LimeGreen</border_color>
+                <padding>12</padding>
+                <font font_family="微软雅黑" size="9" style="Bold" />
+              </style>
+            </node>
+            <node text="浏览器缓存机制">
+              <style>
+                <back_color>DarkSlateBlue</back_color>
+                <fore_color>White</fore_color>
+                <line_color>#80FFFF</line_color>
+                <border_color>LimeGreen</border_color>
+                <padding>12</padding>
+                <font font_family="微软雅黑" size="9" style="Bold" />
+              </style>
+            </node>
+            <node text="History路由机制">
+              <style>
+                <back_color>DarkSlateBlue</back_color>
+                <fore_color>White</fore_color>
+                <line_color>#80FFFF</line_color>
+                <border_color>LimeGreen</border_color>
+                <padding>12</padding>
+                <font font_family="微软雅黑" size="9" style="Bold" />
+              </style>
+            </node>
+            <node text="HTML5离线缓存">
+              <style>
+                <back_color>DarkSlateBlue</back_color>
+                <fore_color>White</fore_color>
+                <line_color>#80FFFF</line_color>
+                <border_color>LimeGreen</border_color>
+                <padding>12</padding>
+                <font font_family="微软雅黑" size="9" style="Bold" />
+              </style>
+            </node>
+            <node text="Canvas和SVG">
+              <style>
+                <back_color>DarkSlateBlue</back_color>
+                <fore_color>White</fore_color>
+                <line_color>#80FFFF</line_color>
+                <border_color>LimeGreen</border_color>
+                <padding>12</padding>
+                <font font_family="微软雅黑" size="9" style="Bold" />
+              </style>
+            </node>
+          </nodes>
+        </node>
+        <node text="CSS">
+          <style>
+            <back_color>DarkSlateBlue</back_color>
+            <fore_color>White</fore_color>
+            <line_color>#80FFFF</line_color>
+            <border_color>LimeGreen</border_color>
+            <padding>12</padding>
+            <font font_family="微软雅黑" size="9" style="Bold" />
+          </style>
+          <nodes>
+            <node text="选择器">
+              <style>
+                <back_color>DarkSlateBlue</back_color>
+                <fore_color>White</fore_color>
+                <line_color>#80FFFF</line_color>
+                <border_color>LimeGreen</border_color>
+                <padding>12</padding>
+                <font font_family="微软雅黑" size="9" style="Bold" />
+              </style>
+            </node>
+            <node text="定位">
+              <style>
+                <back_color>DarkSlateBlue</back_color>
+                <fore_color>White</fore_color>
+                <line_color>#80FFFF</line_color>
+                <border_color>LimeGreen</border_color>
+                <padding>12</padding>
+                <font font_family="微软雅黑" size="9" style="Bold" />
+              </style>
+            </node>
+            <node text="浮动">
+              <style>
+                <back_color>DarkSlateBlue</back_color>
+                <fore_color>White</fore_color>
+                <line_color>#80FFFF</line_color>
+                <border_color>LimeGreen</border_color>
+                <padding>12</padding>
+                <font font_family="微软雅黑" size="9" style="Bold" />
+              </style>
+            </node>
+            <node text="盒子模型">
+              <style>
+                <back_color>DarkSlateBlue</back_color>
+                <fore_color>White</fore_color>
+                <line_color>#80FFFF</line_color>
+                <border_color>LimeGreen</border_color>
+                <padding>12</padding>
+                <font font_family="微软雅黑" size="9" style="Bold" />
+              </style>
+            </node>
+            <node text="Flex布局">
+              <style>
+                <back_color>DarkSlateBlue</back_color>
+                <fore_color>White</fore_color>
+                <line_color>#80FFFF</line_color>
+                <border_color>LimeGreen</border_color>
+                <padding>12</padding>
+                <font font_family="微软雅黑" size="9" style="Bold" />
+              </style>
+            </node>
+            <node text="transition(过渡) 和 transform(旋转)">
+              <style>
+                <back_color>DarkSlateBlue</back_color>
+                <fore_color>White</fore_color>
+                <line_color>#80FFFF</line_color>
+                <border_color>LimeGreen</border_color>
+                <padding>12</padding>
+                <font font_family="微软雅黑" size="9" style="Bold" />
+              </style>
+            </node>
+            <node text="动画 Animation">
+              <style>
+                <back_color>DarkSlateBlue</back_color>
+                <fore_color>White</fore_color>
+                <line_color>#80FFFF</line_color>
+                <border_color>LimeGreen</border_color>
+                <padding>12</padding>
+                <font font_family="微软雅黑" size="9" style="Bold" />
+              </style>
+            </node>
+            <node text="Sprite图">
+              <style>
+                <back_color>DarkSlateBlue</back_color>
+                <fore_color>White</fore_color>
+                <line_color>#80FFFF</line_color>
+                <border_color>LimeGreen</border_color>
+                <padding>12</padding>
+                <font font_family="微软雅黑" size="9" style="Bold" />
+              </style>
+            </node>
+            <node text="字体图标 iconfont">
+              <style>
+                <back_color>DarkSlateBlue</back_color>
+                <fore_color>White</fore_color>
+                <line_color>#80FFFF</line_color>
+                <border_color>LimeGreen</border_color>
+                <padding>12</padding>
+                <font font_family="微软雅黑" size="9" style="Bold" />
+              </style>
+            </node>
+          </nodes>
+        </node>
+        <node text="JavaScript">
+          <style>
+            <back_color>DarkSlateBlue</back_color>
+            <fore_color>White</fore_color>
+            <line_color>#80FFFF</line_color>
+            <border_color>LimeGreen</border_color>
+            <padding>12</padding>
+            <font font_family="微软雅黑" size="9" style="Bold" />
+          </style>
+          <nodes>
+            <node text="基础语法">
+              <style>
+                <back_color>DarkSlateBlue</back_color>
+                <fore_color>White</fore_color>
+                <line_color>#80FFFF</line_color>
+                <border_color>LimeGreen</border_color>
+                <padding>12</padding>
+                <font font_family="微软雅黑" size="9" style="Bold" />
+              </style>
+              <nodes>
+                <node text="变量定义">
+                  <style>
+                    <back_color>DarkSlateBlue</back_color>
+                    <fore_color>White</fore_color>
+                    <line_color>#80FFFF</line_color>
+                    <border_color>LimeGreen</border_color>
+                    <shape>4</shape>
+                    <padding>12</padding>
+                    <font font_family="微软雅黑" size="9" style="Bold" />
+                  </style>
+                </node>
+                <node text="数据类型">
+                  <style>
+                    <back_color>DarkSlateBlue</back_color>
+                    <fore_color>White</fore_color>
+                    <line_color>#80FFFF</line_color>
+                    <border_color>LimeGreen</border_color>
+                    <shape>4</shape>
+                    <padding>12</padding>
+                    <font font_family="微软雅黑" size="9" style="Bold" />
+                  </style>
+                </node>
+                <node text="循环">
+                  <style>
+                    <back_color>DarkSlateBlue</back_color>
+                    <fore_color>White</fore_color>
+                    <line_color>#80FFFF</line_color>
+                    <border_color>LimeGreen</border_color>
+                    <shape>4</shape>
+                    <padding>12</padding>
+                    <font font_family="微软雅黑" size="9" style="Bold" />
+                  </style>
+                </node>
+                <node text="选择">
+                  <style>
+                    <back_color>DarkSlateBlue</back_color>
+                    <fore_color>White</fore_color>
+                    <line_color>#80FFFF</line_color>
+                    <border_color>LimeGreen</border_color>
+                    <shape>4</shape>
+                    <padding>12</padding>
+                    <font font_family="微软雅黑" size="9" style="Bold" />
+                  </style>
+                </node>
+                <node text="内置对象">
+                  <style>
+                    <back_color>DarkSlateBlue</back_color>
+                    <fore_color>White</fore_color>
+                    <line_color>#80FFFF</line_color>
+                    <border_color>LimeGreen</border_color>
+                    <shape>4</shape>
+                    <padding>12</padding>
+                    <font font_family="微软雅黑" size="9" style="Bold" />
+                  </style>
+                </node>
+              </nodes>
+            </node>
+            <node text="函数原型链">
+              <style>
+                <back_color>DarkSlateBlue</back_color>
+                <fore_color>White</fore_color>
+                <line_color>#80FFFF</line_color>
+                <border_color>LimeGreen</border_color>
+                <padding>12</padding>
+                <font font_family="微软雅黑" size="9" style="Bold" />
+              </style>
+            </node>
+            <node text="函数作用域">
+              <style>
+                <back_color>DarkSlateBlue</back_color>
+                <fore_color>White</fore_color>
+                <line_color>#80FFFF</line_color>
+                <border_color>LimeGreen</border_color>
+                <padding>12</padding>
+                <font font_family="微软雅黑" size="9" style="Bold" />
+              </style>
+            </node>
+            <node text="构造函数 new">
+              <style>
+                <back_color>DarkSlateBlue</back_color>
+                <fore_color>White</fore_color>
+                <line_color>#80FFFF</line_color>
+                <border_color>LimeGreen</border_color>
+                <padding>12</padding>
+                <font font_family="微软雅黑" size="9" style="Bold" />
+              </style>
+            </node>
+            <node text="闭包">
+              <style>
+                <back_color>DarkSlateBlue</back_color>
+                <fore_color>White</fore_color>
+                <line_color>#80FFFF</line_color>
+                <border_color>LimeGreen</border_color>
+                <padding>12</padding>
+                <font font_family="微软雅黑" size="9" style="Bold" />
+              </style>
+            </node>
+            <node text="单线程和异步队列">
+              <style>
+                <back_color>DarkSlateBlue</back_color>
+                <fore_color>White</fore_color>
+                <line_color>#80FFFF</line_color>
+                <border_color>LimeGreen</border_color>
+                <padding>12</padding>
+                <font font_family="微软雅黑" size="9" style="Bold" />
+              </style>
+            </node>
+            <node text="异步通讯 Ajax技术">
+              <style>
+                <back_color>DarkSlateBlue</back_color>
+                <fore_color>White</fore_color>
+                <line_color>#80FFFF</line_color>
+                <border_color>LimeGreen</border_color>
+                <padding>12</padding>
+                <font font_family="微软雅黑" size="9" style="Bold" />
+              </style>
+            </node>
+            <node text="DOM对象 document">
+              <style>
+                <back_color>DarkSlateBlue</back_color>
+                <fore_color>White</fore_color>
+                <line_color>#80FFFF</line_color>
+                <border_color>LimeGreen</border_color>
+                <padding>12</padding>
+                <font font_family="微软雅黑" size="9" style="Bold" />
+              </style>
+            </node>
+            <node text="事件系统 Event">
+              <style>
+                <back_color>DarkSlateBlue</back_color>
+                <fore_color>White</fore_color>
+                <line_color>#80FFFF</line_color>
+                <border_color>LimeGreen</border_color>
+                <padding>12</padding>
+                <font font_family="微软雅黑" size="9" style="Bold" />
+              </style>
+            </node>
+            <node text="全局对象 window">
+              <style>
+                <back_color>DarkSlateBlue</back_color>
+                <fore_color>White</fore_color>
+                <line_color>#80FFFF</line_color>
+                <border_color>LimeGreen</border_color>
+                <padding>12</padding>
+                <font font_family="微软雅黑" size="9" style="Bold" />
+              </style>
+            </node>
+          </nodes>
+        </node>
+      </nodes>
+    </node>
+  </nodes>
+</map>
