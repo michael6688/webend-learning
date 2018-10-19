@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<map name="web前端知识汇总" document_type="Blumind" editor_version="1.3.16.0">
+<map name="frontend_learning_mindmap" document_type="Blumind" editor_version="1.3.16.0">
   <!--Create by Blumind, you can download it free from http://www.blumind.org/download-->
   <info />
   <layout>LOGIC_RIGHT</layout>
@@ -7,7 +7,7 @@
     <item name="editor_show_sidebar">False</item>
   </attributes>
   <style>
-    <back_color>MidnightBlue</back_color>
+    <back_color>Navy</back_color>
     <fore_color>Black</fore_color>
     <line_color>Black</line_color>
     <border_color>DarkGreen</border_color>
@@ -7744,7 +7744,7 @@
                 <font font_family="微软雅黑" size="9" style="Bold" />
               </style>
               <nodes>
-                <node text="1、div和span">
+                <node text="1、div和span" folded="True">
                   <style>
                     <back_color>DarkSlateBlue</back_color>
                     <fore_color>White</fore_color>
@@ -7779,7 +7779,7 @@
                     </node>
                   </nodes>
                 </node>
-                <node text="2、盒模型">
+                <node text="2、盒模型" folded="True">
                   <style>
                     <back_color>DarkSlateBlue</back_color>
                     <fore_color>White</fore_color>
@@ -7922,6 +7922,307 @@
                     <padding>12</padding>
                     <font font_family="微软雅黑" size="9" style="Bold" />
                   </style>
+                  <nodes>
+                    <node text="1、position 定位方式" folded="True">
+                      <style>
+                        <back_color>DarkSlateBlue</back_color>
+                        <fore_color>White</fore_color>
+                        <line_color>#80FFFF</line_color>
+                        <border_color>LimeGreen</border_color>
+                        <shape>3</shape>
+                        <padding>12</padding>
+                        <font font_family="微软雅黑" size="9" style="Bold" />
+                      </style>
+                      <nodes>
+                        <node text="1、正常定位">
+                          <style>
+                            <back_color>DarkSlateBlue</back_color>
+                            <fore_color>White</fore_color>
+                            <line_color>#80FFFF</line_color>
+                            <border_color>LimeGreen</border_color>
+                            <shape>3</shape>
+                            <padding>12</padding>
+                            <font font_family="微软雅黑" size="9" style="Bold" />
+                          </style>
+                          <nodes>
+                            <node text="relative">
+                              <style>
+                                <back_color>DarkSlateBlue</back_color>
+                                <fore_color>White</fore_color>
+                                <line_color>#80FFFF</line_color>
+                                <border_color>LimeGreen</border_color>
+                                <shape>3</shape>
+                                <padding>12</padding>
+                                <font font_family="微软雅黑" size="9" style="Bold" />
+                              </style>
+                            </node>
+                          </nodes>
+                        </node>
+                        <node text="2、根据父元素进行定位">
+                          <style>
+                            <back_color>DarkSlateBlue</back_color>
+                            <fore_color>White</fore_color>
+                            <line_color>#80FFFF</line_color>
+                            <border_color>LimeGreen</border_color>
+                            <shape>3</shape>
+                            <padding>12</padding>
+                            <font font_family="微软雅黑" size="9" style="Bold" />
+                          </style>
+                          <nodes>
+                            <node text="absolute">
+                              <style>
+                                <back_color>DarkSlateBlue</back_color>
+                                <fore_color>White</fore_color>
+                                <line_color>#80FFFF</line_color>
+                                <border_color>LimeGreen</border_color>
+                                <shape>3</shape>
+                                <padding>12</padding>
+                                <font font_family="微软雅黑" size="9" style="Bold" />
+                              </style>
+                            </node>
+                          </nodes>
+                        </node>
+                        <node text="3、根据浏览器窗口进行定位">
+                          <style>
+                            <back_color>DarkSlateBlue</back_color>
+                            <fore_color>White</fore_color>
+                            <line_color>#80FFFF</line_color>
+                            <border_color>LimeGreen</border_color>
+                            <shape>3</shape>
+                            <padding>12</padding>
+                            <font font_family="微软雅黑" size="9" style="Bold" />
+                          </style>
+                          <nodes>
+                            <node text="fixed">
+                              <style>
+                                <back_color>DarkSlateBlue</back_color>
+                                <fore_color>White</fore_color>
+                                <line_color>#80FFFF</line_color>
+                                <border_color>LimeGreen</border_color>
+                                <shape>3</shape>
+                                <padding>12</padding>
+                                <font font_family="微软雅黑" size="9" style="Bold" />
+                              </style>
+                            </node>
+                          </nodes>
+                        </node>
+                        <node text="4、没有定位">
+                          <style>
+                            <back_color>DarkSlateBlue</back_color>
+                            <fore_color>White</fore_color>
+                            <line_color>#80FFFF</line_color>
+                            <border_color>LimeGreen</border_color>
+                            <shape>3</shape>
+                            <padding>12</padding>
+                            <font font_family="微软雅黑" size="9" style="Bold" />
+                          </style>
+                          <nodes>
+                            <node text="static">
+                              <style>
+                                <back_color>DarkSlateBlue</back_color>
+                                <fore_color>White</fore_color>
+                                <line_color>#80FFFF</line_color>
+                                <border_color>LimeGreen</border_color>
+                                <shape>3</shape>
+                                <padding>12</padding>
+                                <font font_family="微软雅黑" size="9" style="Bold" />
+                              </style>
+                            </node>
+                          </nodes>
+                        </node>
+                        <node text="5、继承inherit">
+                          <style>
+                            <back_color>DarkSlateBlue</back_color>
+                            <fore_color>White</fore_color>
+                            <line_color>#80FFFF</line_color>
+                            <border_color>LimeGreen</border_color>
+                            <shape>3</shape>
+                            <padding>12</padding>
+                            <font font_family="微软雅黑" size="9" style="Bold" />
+                          </style>
+                        </node>
+                      </nodes>
+                    </node>
+                    <node text="2、定位">
+                      <style>
+                        <back_color>DarkSlateBlue</back_color>
+                        <fore_color>White</fore_color>
+                        <line_color>#80FFFF</line_color>
+                        <border_color>LimeGreen</border_color>
+                        <shape>3</shape>
+                        <padding>12</padding>
+                        <font font_family="微软雅黑" size="9" style="Bold" />
+                      </style>
+                      <nodes>
+                        <node text="left、right  top bottom">
+                          <style>
+                            <back_color>DarkSlateBlue</back_color>
+                            <fore_color>White</fore_color>
+                            <line_color>#80FFFF</line_color>
+                            <border_color>LimeGreen</border_color>
+                            <shape>3</shape>
+                            <padding>12</padding>
+                            <font font_family="微软雅黑" size="9" style="Bold" />
+                          </style>
+                        </node>
+                      </nodes>
+                    </node>
+                    <node text="3、z-index层覆盖先后顺序（优先级）">
+                      <style>
+                        <back_color>DarkSlateBlue</back_color>
+                        <fore_color>White</fore_color>
+                        <line_color>#80FFFF</line_color>
+                        <border_color>LimeGreen</border_color>
+                        <shape>3</shape>
+                        <padding>12</padding>
+                        <font font_family="微软雅黑" size="9" style="Bold" />
+                      </style>
+                    </node>
+                    <node text="4、display 显示属性">
+                      <style>
+                        <back_color>DarkSlateBlue</back_color>
+                        <fore_color>White</fore_color>
+                        <line_color>#80FFFF</line_color>
+                        <border_color>LimeGreen</border_color>
+                        <shape>3</shape>
+                        <padding>12</padding>
+                        <font font_family="微软雅黑" size="9" style="Bold" />
+                      </style>
+                      <nodes>
+                        <node text="display：none">
+                          <style>
+                            <back_color>DarkSlateBlue</back_color>
+                            <fore_color>White</fore_color>
+                            <line_color>#80FFFF</line_color>
+                            <border_color>LimeGreen</border_color>
+                            <shape>3</shape>
+                            <padding>12</padding>
+                            <font font_family="微软雅黑" size="9" style="Bold" />
+                          </style>
+                          <nodes>
+                            <node text="层不显示">
+                              <style>
+                                <back_color>DarkSlateBlue</back_color>
+                                <fore_color>White</fore_color>
+                                <line_color>#80FFFF</line_color>
+                                <border_color>LimeGreen</border_color>
+                                <shape>3</shape>
+                                <padding>12</padding>
+                                <font font_family="微软雅黑" size="9" style="Bold" />
+                              </style>
+                            </node>
+                          </nodes>
+                        </node>
+                        <node text="display：block">
+                          <style>
+                            <back_color>DarkSlateBlue</back_color>
+                            <fore_color>White</fore_color>
+                            <line_color>#80FFFF</line_color>
+                            <border_color>LimeGreen</border_color>
+                            <shape>3</shape>
+                            <padding>12</padding>
+                            <font font_family="微软雅黑" size="9" style="Bold" />
+                          </style>
+                          <nodes>
+                            <node text="块状显示，在元素后面换行，显示下一个块元素">
+                              <style>
+                                <back_color>DarkSlateBlue</back_color>
+                                <fore_color>White</fore_color>
+                                <line_color>#80FFFF</line_color>
+                                <border_color>LimeGreen</border_color>
+                                <shape>3</shape>
+                                <padding>12</padding>
+                                <font font_family="微软雅黑" size="9" style="Bold" />
+                              </style>
+                              <nodes>
+                                <node text="可以调整大小">
+                                  <style>
+                                    <back_color>DarkSlateBlue</back_color>
+                                    <fore_color>White</fore_color>
+                                    <line_color>#80FFFF</line_color>
+                                    <border_color>LimeGreen</border_color>
+                                    <shape>3</shape>
+                                    <padding>12</padding>
+                                    <font font_family="微软雅黑" size="9" style="Bold" />
+                                  </style>
+                                </node>
+                              </nodes>
+                            </node>
+                          </nodes>
+                        </node>
+                        <node text="display: inline">
+                          <style>
+                            <back_color>DarkSlateBlue</back_color>
+                            <fore_color>White</fore_color>
+                            <line_color>#80FFFF</line_color>
+                            <border_color>LimeGreen</border_color>
+                            <shape>3</shape>
+                            <padding>12</padding>
+                            <font font_family="微软雅黑" size="9" style="Bold" />
+                          </style>
+                          <nodes>
+                            <node text="内联显示，多个块可以显示在一行内">
+                              <style>
+                                <back_color>DarkSlateBlue</back_color>
+                                <fore_color>White</fore_color>
+                                <line_color>#80FFFF</line_color>
+                                <border_color>LimeGreen</border_color>
+                                <shape>3</shape>
+                                <padding>12</padding>
+                                <font font_family="微软雅黑" size="9" style="Bold" />
+                              </style>
+                              <nodes>
+                                <node text="不能调整大小">
+                                  <style>
+                                    <back_color>DarkSlateBlue</back_color>
+                                    <fore_color>White</fore_color>
+                                    <line_color>#80FFFF</line_color>
+                                    <border_color>LimeGreen</border_color>
+                                    <shape>3</shape>
+                                    <padding>12</padding>
+                                    <font font_family="微软雅黑" size="9" style="Bold" />
+                                  </style>
+                                </node>
+                              </nodes>
+                            </node>
+                          </nodes>
+                        </node>
+                      </nodes>
+                    </node>
+                    <node text="5、float 浮动属性">
+                      <style>
+                        <back_color>DarkSlateBlue</back_color>
+                        <fore_color>White</fore_color>
+                        <line_color>#80FFFF</line_color>
+                        <border_color>LimeGreen</border_color>
+                        <shape>3</shape>
+                        <padding>12</padding>
+                        <font font_family="微软雅黑" size="9" style="Bold" />
+                      </style>
+                    </node>
+                    <node text="6、clear 清楚浮动">
+                      <style>
+                        <back_color>DarkSlateBlue</back_color>
+                        <fore_color>White</fore_color>
+                        <line_color>#80FFFF</line_color>
+                        <border_color>LimeGreen</border_color>
+                        <shape>3</shape>
+                        <padding>12</padding>
+                        <font font_family="微软雅黑" size="9" style="Bold" />
+                      </style>
+                    </node>
+                    <node text="7、overflow 溢出处理">
+                      <style>
+                        <back_color>DarkSlateBlue</back_color>
+                        <fore_color>White</fore_color>
+                        <line_color>#80FFFF</line_color>
+                        <border_color>LimeGreen</border_color>
+                        <shape>3</shape>
+                        <padding>12</padding>
+                        <font font_family="微软雅黑" size="9" style="Bold" />
+                      </style>
+                    </node>
+                  </nodes>
                 </node>
                 <node text="4、兼容问题">
                   <style>
