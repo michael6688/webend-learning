@@ -8199,6 +8199,30 @@
                         <padding>12</padding>
                         <font font_family="微软雅黑" size="9" style="Bold" />
                       </style>
+                      <nodes>
+                        <node text="left左浮动">
+                          <style>
+                            <back_color>DarkSlateBlue</back_color>
+                            <fore_color>White</fore_color>
+                            <line_color>#80FFFF</line_color>
+                            <border_color>LimeGreen</border_color>
+                            <shape>3</shape>
+                            <padding>12</padding>
+                            <font font_family="微软雅黑" size="9" style="Bold" />
+                          </style>
+                        </node>
+                        <node text="right右浮动">
+                          <style>
+                            <back_color>DarkSlateBlue</back_color>
+                            <fore_color>White</fore_color>
+                            <line_color>#80FFFF</line_color>
+                            <border_color>LimeGreen</border_color>
+                            <shape>3</shape>
+                            <padding>12</padding>
+                            <font font_family="微软雅黑" size="9" style="Bold" />
+                          </style>
+                        </node>
+                      </nodes>
                     </node>
                     <node text="6、clear 清楚浮动">
                       <style>
@@ -8210,6 +8234,19 @@
                         <padding>12</padding>
                         <font font_family="微软雅黑" size="9" style="Bold" />
                       </style>
+                      <nodes>
+                        <node text="clear：both">
+                          <style>
+                            <back_color>DarkSlateBlue</back_color>
+                            <fore_color>White</fore_color>
+                            <line_color>#80FFFF</line_color>
+                            <border_color>LimeGreen</border_color>
+                            <shape>3</shape>
+                            <padding>12</padding>
+                            <font font_family="微软雅黑" size="9" style="Bold" />
+                          </style>
+                        </node>
+                      </nodes>
                     </node>
                     <node text="7、overflow 溢出处理">
                       <style>
@@ -8221,6 +8258,41 @@
                         <padding>12</padding>
                         <font font_family="微软雅黑" size="9" style="Bold" />
                       </style>
+                      <nodes>
+                        <node text="hidden 隐藏超出层大小的内容">
+                          <style>
+                            <back_color>DarkSlateBlue</back_color>
+                            <fore_color>White</fore_color>
+                            <line_color>#80FFFF</line_color>
+                            <border_color>LimeGreen</border_color>
+                            <shape>3</shape>
+                            <padding>12</padding>
+                            <font font_family="微软雅黑" size="9" style="Bold" />
+                          </style>
+                        </node>
+                        <node text="scroll 无论内容是否超出层大小都添加滚动条">
+                          <style>
+                            <back_color>DarkSlateBlue</back_color>
+                            <fore_color>White</fore_color>
+                            <line_color>#80FFFF</line_color>
+                            <border_color>LimeGreen</border_color>
+                            <shape>3</shape>
+                            <padding>12</padding>
+                            <font font_family="微软雅黑" size="9" style="Bold" />
+                          </style>
+                        </node>
+                        <node text="auto 超时自动添加滚动条">
+                          <style>
+                            <back_color>DarkSlateBlue</back_color>
+                            <fore_color>White</fore_color>
+                            <line_color>#80FFFF</line_color>
+                            <border_color>LimeGreen</border_color>
+                            <shape>3</shape>
+                            <padding>12</padding>
+                            <font font_family="微软雅黑" size="9" style="Bold" />
+                          </style>
+                        </node>
+                      </nodes>
                     </node>
                   </nodes>
                 </node>
@@ -8234,6 +8306,87 @@
                     <padding>12</padding>
                     <font font_family="微软雅黑" size="9" style="Bold" />
                   </style>
+                  <nodes>
+                    <node text="1、兼容性测试工具">
+                      <style>
+                        <back_color>DarkSlateBlue</back_color>
+                        <fore_color>White</fore_color>
+                        <line_color>#80FFFF</line_color>
+                        <border_color>LimeGreen</border_color>
+                        <shape>3</shape>
+                        <padding>12</padding>
+                        <font font_family="微软雅黑" size="9" style="Bold" />
+                      </style>
+                      <nodes>
+                        <node text="1、IE Tester">
+                          <style>
+                            <back_color>DarkSlateBlue</back_color>
+                            <fore_color>White</fore_color>
+                            <line_color>#80FFFF</line_color>
+                            <border_color>LimeGreen</border_color>
+                            <shape>3</shape>
+                            <padding>12</padding>
+                            <font font_family="微软雅黑" size="9" style="Bold" />
+                          </style>
+                        </node>
+                        <node text="2、Multibrowser">
+                          <style>
+                            <back_color>DarkSlateBlue</back_color>
+                            <fore_color>White</fore_color>
+                            <line_color>#80FFFF</line_color>
+                            <border_color>LimeGreen</border_color>
+                            <shape>3</shape>
+                            <padding>12</padding>
+                            <font font_family="微软雅黑" size="9" style="Bold" />
+                          </style>
+                        </node>
+                      </nodes>
+                    </node>
+                    <node text="2、常用的浏览器">
+                      <style>
+                        <back_color>DarkSlateBlue</back_color>
+                        <fore_color>White</fore_color>
+                        <line_color>#80FFFF</line_color>
+                        <border_color>LimeGreen</border_color>
+                        <shape>3</shape>
+                        <padding>12</padding>
+                        <font font_family="微软雅黑" size="9" style="Bold" />
+                      </style>
+                    </node>
+                    <node text="3、高效的开发工具">
+                      <style>
+                        <back_color>DarkSlateBlue</back_color>
+                        <fore_color>White</fore_color>
+                        <line_color>#80FFFF</line_color>
+                        <border_color>LimeGreen</border_color>
+                        <shape>3</shape>
+                        <padding>12</padding>
+                        <font font_family="微软雅黑" size="9" style="Bold" />
+                      </style>
+                    </node>
+                    <node text="4、网页设计工具">
+                      <style>
+                        <back_color>DarkSlateBlue</back_color>
+                        <fore_color>White</fore_color>
+                        <line_color>#80FFFF</line_color>
+                        <border_color>LimeGreen</border_color>
+                        <shape>3</shape>
+                        <padding>12</padding>
+                        <font font_family="微软雅黑" size="9" style="Bold" />
+                      </style>
+                    </node>
+                    <node text="5、判断IE的方法">
+                      <style>
+                        <back_color>DarkSlateBlue</back_color>
+                        <fore_color>White</fore_color>
+                        <line_color>#80FFFF</line_color>
+                        <border_color>LimeGreen</border_color>
+                        <shape>3</shape>
+                        <padding>12</padding>
+                        <font font_family="微软雅黑" size="9" style="Bold" />
+                      </style>
+                    </node>
+                  </nodes>
                 </node>
                 <node text="5、DIV+CSS网页布局实战">
                   <style>

@@ -1,0 +1,48 @@
+/*通用样式*/
+*{margin: 0;padding: 0;}
+/*全局字体*/
+body{font:14px/24px '微软雅黑 Light'}
+.wp{width: 960px;margin: 0 auto;}
+.z{float: left}
+.y{float: right}
+.cl{clear: both}
+
+.top{
+    width: 100%;
+    height: 24px;
+    line-height: 24px;
+    background: #303030;
+    color:#d8d8d8;
+}
+.top span{
+    /*!*两个span之间间隔15px*!*/
+    margin-right: 15px;
+}
+.top span.mr_0{
+    margin: 0;
+}
+.top a{
+    color: #d8d8d8;
+    /*去掉超链接下划线*/
+    text-decoration: none;
+}
+.top a:hover{
+    /*鼠标移上去的颜色*/
+    color: #ff6600;
+}
+/*LOGOS*/
+.logos{
+    height: 59px;
+}
+/*搜索*/
+.sousuo{
+    width: 350px;
+    height: 41px;
+}
+.sousuo td{
+    height: 41px;
+}
+.s_z{
+    width: 6px;
+    background: url("../images/s_z.jpg") no-repeat;
+}
